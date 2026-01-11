@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "name": "South State 1",
+    "code": "ST1",
+    "countryId": 2
+  },
+  {
+    "id": 2,
+    "name": "West Region 2",
+    "code": "ST2",
+    "countryId": 3
+  },
+  {
+    "id": 3,
+    "name": "East Territory 3",
+    "code": "ST3",
+    "countryId": 4
+  },
+  {
+    "id": 4,
+    "name": "New District 4",
+    "code": "ST4",
+    "countryId": 5
+  },
+  {
+    "id": 5,
+    "name": "Central Province 5",
+    "code": "ST5",
+    "countryId": 6
+  },
+  {
+    "id": 6,
+    "name": "Upper State 6",
+    "code": "ST6",
+    "countryId": 7
+  },
+  {
+    "id": 7,
+    "name": "Lower Region 7",
+    "code": "ST7",
+    "countryId": 8
+  },
+  {
+    "id": 8,
+    "name": "North Territory 8",
+    "code": "ST8",
+    "countryId": 9
+  },
+  {
+    "id": 9,
+    "name": "South District 9",
+    "code": "ST9",
+    "countryId": 10
+  },
+  {
+    "id": 10,
+    "name": "West Province 10",
+    "code": "ST10",
+    "countryId": 1
+  },
+  {
+    "id": 11,
+    "name": "East State 11",
+    "code": "ST11",
+    "countryId": 2
+  },
+  {
+    "id": 12,
+    "name": "New Region 12",
+    "code": "ST12",
+    "countryId": 3
+  },
+  {
+    "id": 13,
+    "name": "Central Territory 13",
+    "code": "ST13",
+    "countryId": 4
+  },
+  {
+    "id": 14,
+    "name": "Upper District 14",
+    "code": "ST14",
+    "countryId": 5
+  },
+  {
+    "id": 15,
+    "name": "Lower Province 15",
+    "code": "ST15",
+    "countryId": 6
+  },
+  {
+    "id": 16,
+    "name": "North State 16",
+    "code": "ST16",
+    "countryId": 7
+  },
+  {
+    "id": 17,
+    "name": "South Region 17",
+    "code": "ST17",
+    "countryId": 8
+  },
+  {
+    "id": 18,
+    "name": "West Territory 18",
+    "code": "ST18",
+    "countryId": 9
+  },
+  {
+    "id": 19,
+    "name": "East District 19",
+    "code": "ST19",
+    "countryId": 10
+  },
+  {
+    "id": 20,
+    "name": "New Province 20",
+    "code": "ST20",
+    "countryId": 1
+  },
+  {
+    "id": 21,
+    "name": "Central State 21",
+    "code": "ST21",
+    "countryId": 2
+  },
+  {
+    "id": 22,
+    "name": "Upper Region 22",
+    "code": "ST22",
+    "countryId": 3
+  },
+  {
+    "id": 23,
+    "name": "Lower Territory 23",
+    "code": "ST23",
+    "countryId": 4
+  },
+  {
+    "id": 24,
+    "name": "North District 24",
+    "code": "ST24",
+    "countryId": 5
+  },
+  {
+    "id": 25,
+    "name": "South Province 25",
+    "code": "ST25",
+    "countryId": 6
+  },
+  {
+    "id": 26,
+    "name": "West State 26",
+    "code": "ST26",
+    "countryId": 7
+  },
+  {
+    "id": 27,
+    "name": "East Region 27",
+    "code": "ST27",
+    "countryId": 8
+  },
+  {
+    "id": 28,
+    "name": "New Territory 28",
+    "code": "ST28",
+    "countryId": 9
+  },
+  {
+    "id": 29,
+    "name": "Central District 29",
+    "code": "ST29",
+    "countryId": 10
+  },
+  {
+    "id": 30,
+    "name": "Upper Province 30",
+    "code": "ST30",
+    "countryId": 1
+  },
+  {
+    "id": 31,
+    "name": "Lower State 31",
+    "code": "ST31",
+    "countryId": 2
+  },
+  {
+    "id": 32,
+    "name": "North Region 32",
+    "code": "ST32",
+    "countryId": 3
+  },
+  {
+    "id": 33,
+    "name": "South Territory 33",
+    "code": "ST33",
+    "countryId": 4
+  },
+  {
+    "id": 34,
+    "name": "West District 34",
+    "code": "ST34",
+    "countryId": 5
+  },
+  {
+    "id": 35,
+    "name": "East Province 35",
+    "code": "ST35",
+    "countryId": 6
+  },
+  {
+    "id": 36,
+    "name": "New State 36",
+    "code": "ST36",
+    "countryId": 7
+  },
+  {
+    "id": 37,
+    "name": "Central Region 37",
+    "code": "ST37",
+    "countryId": 8
+  },
+  {
+    "id": 38,
+    "name": "Upper Territory 38",
+    "code": "ST38",
+    "countryId": 9
+  },
+  {
+    "id": 39,
+    "name": "Lower District 39",
+    "code": "ST39",
+    "countryId": 10
+  },
+  {
+    "id": 40,
+    "name": "North Province 40",
+    "code": "ST40",
+    "countryId": 1
+  },
+  {
+    "id": 41,
+    "name": "South State 41",
+    "code": "ST41",
+    "countryId": 2
+  },
+  {
+    "id": 42,
+    "name": "West Region 42",
+    "code": "ST42",
+    "countryId": 3
+  },
+  {
+    "id": 43,
+    "name": "East Territory 43",
+    "code": "ST43",
+    "countryId": 4
+  },
+  {
+    "id": 44,
+    "name": "New District 44",
+    "code": "ST44",
+    "countryId": 5
+  },
+  {
+    "id": 45,
+    "name": "Central Province 45",
+    "code": "ST45",
+    "countryId": 6
+  },
+  {
+    "id": 46,
+    "name": "Upper State 46",
+    "code": "ST46",
+    "countryId": 7
+  },
+  {
+    "id": 47,
+    "name": "Lower Region 47",
+    "code": "ST47",
+    "countryId": 8
+  },
+  {
+    "id": 48,
+    "name": "North Territory 48",
+    "code": "ST48",
+    "countryId": 9
+  },
+  {
+    "id": 49,
+    "name": "South District 49",
+    "code": "ST49",
+    "countryId": 10
+  },
+  {
+    "id": 50,
+    "name": "West Province 50",
+    "code": "ST50",
+    "countryId": 1
+  },
+  {
+    "id": 51,
+    "name": "East State 51",
+    "code": "ST51",
+    "countryId": 2
+  },
+  {
+    "id": 52,
+    "name": "New Region 52",
+    "code": "ST52",
+    "countryId": 3
+  },
+  {
+    "id": 53,
+    "name": "Central Territory 53",
+    "code": "ST53",
+    "countryId": 4
+  },
+  {
+    "id": 54,
+    "name": "Upper District 54",
+    "code": "ST54",
+    "countryId": 5
+  },
+  {
+    "id": 55,
+    "name": "Lower Province 55",
+    "code": "ST55",
+    "countryId": 6
+  },
+  {
+    "id": 56,
+    "name": "North State 56",
+    "code": "ST56",
+    "countryId": 7
+  },
+  {
+    "id": 57,
+    "name": "South Region 57",
+    "code": "ST57",
+    "countryId": 8
+  },
+  {
+    "id": 58,
+    "name": "West Territory 58",
+    "code": "ST58",
+    "countryId": 9
+  },
+  {
+    "id": 59,
+    "name": "East District 59",
+    "code": "ST59",
+    "countryId": 10
+  },
+  {
+    "id": 60,
+    "name": "New Province 60",
+    "code": "ST60",
+    "countryId": 1
+  },
+  {
+    "id": 61,
+    "name": "Central State 61",
+    "code": "ST61",
+    "countryId": 2
+  },
+  {
+    "id": 62,
+    "name": "Upper Region 62",
+    "code": "ST62",
+    "countryId": 3
+  },
+  {
+    "id": 63,
+    "name": "Lower Territory 63",
+    "code": "ST63",
+    "countryId": 4
+  },
+  {
+    "id": 64,
+    "name": "North District 64",
+    "code": "ST64",
+    "countryId": 5
+  },
+  {
+    "id": 65,
+    "name": "South Province 65",
+    "code": "ST65",
+    "countryId": 6
+  },
+  {
+    "id": 66,
+    "name": "West State 66",
+    "code": "ST66",
+    "countryId": 7
+  },
+  {
+    "id": 67,
+    "name": "East Region 67",
+    "code": "ST67",
+    "countryId": 8
+  },
+  {
+    "id": 68,
+    "name": "New Territory 68",
+    "code": "ST68",
+    "countryId": 9
+  },
+  {
+    "id": 69,
+    "name": "Central District 69",
+    "code": "ST69",
+    "countryId": 10
+  },
+  {
+    "id": 70,
+    "name": "Upper Province 70",
+    "code": "ST70",
+    "countryId": 1
+  },
+  {
+    "id": 71,
+    "name": "Lower State 71",
+    "code": "ST71",
+    "countryId": 2
+  },
+  {
+    "id": 72,
+    "name": "North Region 72",
+    "code": "ST72",
+    "countryId": 3
+  },
+  {
+    "id": 73,
+    "name": "South Territory 73",
+    "code": "ST73",
+    "countryId": 4
+  },
+  {
+    "id": 74,
+    "name": "West District 74",
+    "code": "ST74",
+    "countryId": 5
+  },
+  {
+    "id": 75,
+    "name": "East Province 75",
+    "code": "ST75",
+    "countryId": 6
+  },
+  {
+    "id": 76,
+    "name": "New State 76",
+    "code": "ST76",
+    "countryId": 7
+  },
+  {
+    "id": 77,
+    "name": "Central Region 77",
+    "code": "ST77",
+    "countryId": 8
+  },
+  {
+    "id": 78,
+    "name": "Upper Territory 78",
+    "code": "ST78",
+    "countryId": 9
+  },
+  {
+    "id": 79,
+    "name": "Lower District 79",
+    "code": "ST79",
+    "countryId": 10
+  },
+  {
+    "id": 80,
+    "name": "North Province 80",
+    "code": "ST80",
+    "countryId": 1
+  },
+  {
+    "id": 81,
+    "name": "South State 81",
+    "code": "ST81",
+    "countryId": 2
+  },
+  {
+    "id": 82,
+    "name": "West Region 82",
+    "code": "ST82",
+    "countryId": 3
+  },
+  {
+    "id": 83,
+    "name": "East Territory 83",
+    "code": "ST83",
+    "countryId": 4
+  },
+  {
+    "id": 84,
+    "name": "New District 84",
+    "code": "ST84",
+    "countryId": 5
+  },
+  {
+    "id": 85,
+    "name": "Central Province 85",
+    "code": "ST85",
+    "countryId": 6
+  },
+  {
+    "id": 86,
+    "name": "Upper State 86",
+    "code": "ST86",
+    "countryId": 7
+  },
+  {
+    "id": 87,
+    "name": "Lower Region 87",
+    "code": "ST87",
+    "countryId": 8
+  },
+  {
+    "id": 88,
+    "name": "North Territory 88",
+    "code": "ST88",
+    "countryId": 9
+  },
+  {
+    "id": 89,
+    "name": "South District 89",
+    "code": "ST89",
+    "countryId": 10
+  },
+  {
+    "id": 90,
+    "name": "West Province 90",
+    "code": "ST90",
+    "countryId": 1
+  },
+  {
+    "id": 91,
+    "name": "East State 91",
+    "code": "ST91",
+    "countryId": 2
+  },
+  {
+    "id": 92,
+    "name": "New Region 92",
+    "code": "ST92",
+    "countryId": 3
+  },
+  {
+    "id": 93,
+    "name": "Central Territory 93",
+    "code": "ST93",
+    "countryId": 4
+  },
+  {
+    "id": 94,
+    "name": "Upper District 94",
+    "code": "ST94",
+    "countryId": 5
+  },
+  {
+    "id": 95,
+    "name": "Lower Province 95",
+    "code": "ST95",
+    "countryId": 6
+  },
+  {
+    "id": 96,
+    "name": "North State 96",
+    "code": "ST96",
+    "countryId": 7
+  },
+  {
+    "id": 97,
+    "name": "South Region 97",
+    "code": "ST97",
+    "countryId": 8
+  },
+  {
+    "id": 98,
+    "name": "West Territory 98",
+    "code": "ST98",
+    "countryId": 9
+  },
+  {
+    "id": 99,
+    "name": "East District 99",
+    "code": "ST99",
+    "countryId": 10
+  },
+  {
+    "id": 100,
+    "name": "New Province 100",
+    "code": "ST100",
+    "countryId": 1
+  }
+]

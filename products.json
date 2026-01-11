@@ -1,0 +1,1802 @@
+[
+  {
+    "id": 1,
+    "name": "Premium Bench",
+    "description": "High-quality equipment item from Fitness. Perfect for daily use.",
+    "price": 91.03,
+    "category": "Fitness",
+    "subcategory": "Equipment",
+    "brand": "SpeedMaster",
+    "rating": 3.2,
+    "stock": 30,
+    "image": "https://picsum.photos/200/200?random=1",
+    "tags": [
+      "fitness",
+      "equipment",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 2,
+    "name": "Sleek DSLR Camera",
+    "description": "High-quality cameras item from Electronics. Perfect for daily use.",
+    "price": 77.47,
+    "category": "Electronics",
+    "subcategory": "Cameras",
+    "brand": "UrbanGear",
+    "rating": 3.8,
+    "stock": 130,
+    "image": "https://picsum.photos/200/200?random=2",
+    "tags": [
+      "electronics",
+      "cameras",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 3,
+    "name": "Lightweight Fitness Tracker",
+    "description": "High-quality wearables item from Fitness. Perfect for daily use.",
+    "price": 86.39,
+    "category": "Fitness",
+    "subcategory": "Wearables",
+    "brand": "FitLife",
+    "rating": 3.6,
+    "stock": 5,
+    "image": "https://picsum.photos/200/200?random=3",
+    "tags": [
+      "fitness",
+      "wearables",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 4,
+    "name": "Wireless Handbag",
+    "description": "High-quality women item from Fashion. Perfect for daily use.",
+    "price": 23.9,
+    "category": "Fashion",
+    "subcategory": "Women",
+    "brand": "UrbanGear",
+    "rating": 3.8,
+    "stock": 136,
+    "image": "https://picsum.photos/200/200?random=4",
+    "tags": [
+      "fashion",
+      "women",
+      "sale"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 5,
+    "name": "Compact Backpack",
+    "description": "High-quality accessories item from Fashion. Perfect for daily use.",
+    "price": 174.29,
+    "category": "Fashion",
+    "subcategory": "Accessories",
+    "brand": "StyleCo",
+    "rating": 4.6,
+    "stock": 146,
+    "image": "https://picsum.photos/200/200?random=5",
+    "tags": [
+      "fashion",
+      "accessories",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 6,
+    "name": "Smart Jeans",
+    "description": "High-quality men item from Fashion. Perfect for daily use.",
+    "price": 334.41,
+    "category": "Fashion",
+    "subcategory": "Men",
+    "brand": "StyleCo",
+    "rating": 4,
+    "stock": 110,
+    "image": "https://picsum.photos/200/200?random=6",
+    "tags": [
+      "fashion",
+      "men",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 7,
+    "name": "Sleek Vase",
+    "description": "High-quality decor item from Home & Kitchen. Perfect for daily use.",
+    "price": 315.98,
+    "category": "Home & Kitchen",
+    "subcategory": "Decor",
+    "brand": "UrbanGear",
+    "rating": 4,
+    "stock": 14,
+    "image": "https://picsum.photos/200/200?random=7",
+    "tags": [
+      "home & kitchen",
+      "decor",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 8,
+    "name": "Ergonomic Hub",
+    "description": "High-quality accessories item from Electronics. Perfect for daily use.",
+    "price": 476.54,
+    "category": "Electronics",
+    "subcategory": "Accessories",
+    "brand": "FitLife",
+    "rating": 4.4,
+    "stock": 69,
+    "image": "https://picsum.photos/200/200?random=8",
+    "tags": [
+      "electronics",
+      "accessories",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 9,
+    "name": "Heavy-Duty Case",
+    "description": "High-quality accessories item from Fashion. Perfect for daily use.",
+    "price": 306.9,
+    "category": "Fashion",
+    "subcategory": "Accessories",
+    "brand": "GamerPro",
+    "rating": 4.1,
+    "stock": 122,
+    "image": "https://picsum.photos/200/200?random=9",
+    "tags": [
+      "fashion",
+      "accessories",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 10,
+    "name": "Smart Heels",
+    "description": "High-quality women item from Fashion. Perfect for daily use.",
+    "price": 26.22,
+    "category": "Fashion",
+    "subcategory": "Women",
+    "brand": "HomeComfort",
+    "rating": 4.4,
+    "stock": 55,
+    "image": "https://picsum.photos/200/200?random=10",
+    "tags": [
+      "fashion",
+      "women",
+      "sale"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 11,
+    "name": "Ergonomic Chair",
+    "description": "High-quality furniture item from Home & Kitchen. Perfect for daily use.",
+    "price": 57.37,
+    "category": "Home & Kitchen",
+    "subcategory": "Furniture",
+    "brand": "Visionary",
+    "rating": 3.3,
+    "stock": 118,
+    "image": "https://picsum.photos/200/200?random=11",
+    "tags": [
+      "home & kitchen",
+      "furniture",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 12,
+    "name": "Heavy-Duty Blender",
+    "description": "High-quality appliances item from Home & Kitchen. Perfect for daily use.",
+    "price": 304.58,
+    "category": "Home & Kitchen",
+    "subcategory": "Appliances",
+    "brand": "TechSound",
+    "rating": 3.6,
+    "stock": 51,
+    "image": "https://picsum.photos/200/200?random=12",
+    "tags": [
+      "home & kitchen",
+      "appliances",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 13,
+    "name": "Ergonomic Earbuds",
+    "description": "High-quality audio item from Electronics. Perfect for daily use.",
+    "price": 97,
+    "category": "Electronics",
+    "subcategory": "Audio",
+    "brand": "GamerPro",
+    "rating": 4.7,
+    "stock": 14,
+    "image": "https://picsum.photos/200/200?random=13",
+    "tags": [
+      "electronics",
+      "audio",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 14,
+    "name": "Smart Bench",
+    "description": "High-quality equipment item from Fitness. Perfect for daily use.",
+    "price": 315.22,
+    "category": "Fitness",
+    "subcategory": "Equipment",
+    "brand": "StyleCo",
+    "rating": 3.8,
+    "stock": 88,
+    "image": "https://picsum.photos/200/200?random=14",
+    "tags": [
+      "fitness",
+      "equipment",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 15,
+    "name": "Wireless Wall Art",
+    "description": "High-quality decor item from Home & Kitchen. Perfect for daily use.",
+    "price": 130.39,
+    "category": "Home & Kitchen",
+    "subcategory": "Decor",
+    "brand": "SpeedMaster",
+    "rating": 4.5,
+    "stock": 76,
+    "image": "https://picsum.photos/200/200?random=15",
+    "tags": [
+      "home & kitchen",
+      "decor",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 16,
+    "name": "Vintage Charger",
+    "description": "High-quality accessories item from Fashion. Perfect for daily use.",
+    "price": 244.77,
+    "category": "Fashion",
+    "subcategory": "Accessories",
+    "brand": "GamerPro",
+    "rating": 4.6,
+    "stock": 48,
+    "image": "https://picsum.photos/200/200?random=16",
+    "tags": [
+      "fashion",
+      "accessories",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 17,
+    "name": "Sleek Treadmill",
+    "description": "High-quality equipment item from Fitness. Perfect for daily use.",
+    "price": 197.41,
+    "category": "Fitness",
+    "subcategory": "Equipment",
+    "brand": "GamerPro",
+    "rating": 4.5,
+    "stock": 50,
+    "image": "https://picsum.photos/200/200?random=17",
+    "tags": [
+      "fitness",
+      "equipment",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 18,
+    "name": "Heavy-Duty Dress",
+    "description": "High-quality women item from Fashion. Perfect for daily use.",
+    "price": 484.49,
+    "category": "Fashion",
+    "subcategory": "Women",
+    "brand": "UrbanGear",
+    "rating": 4.3,
+    "stock": 142,
+    "image": "https://picsum.photos/200/200?random=18",
+    "tags": [
+      "fashion",
+      "women",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 19,
+    "name": "Sleek Coffee Maker",
+    "description": "High-quality appliances item from Home & Kitchen. Perfect for daily use.",
+    "price": 198.92,
+    "category": "Home & Kitchen",
+    "subcategory": "Appliances",
+    "brand": "TechSound",
+    "rating": 5,
+    "stock": 117,
+    "image": "https://picsum.photos/200/200?random=19",
+    "tags": [
+      "home & kitchen",
+      "appliances",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 20,
+    "name": "Premium Keyboard",
+    "description": "High-quality computers item from Electronics. Perfect for daily use.",
+    "price": 488.81,
+    "category": "Electronics",
+    "subcategory": "Computers",
+    "brand": "GamerPro",
+    "rating": 4.7,
+    "stock": 27,
+    "image": "https://picsum.photos/200/200?random=20",
+    "tags": [
+      "electronics",
+      "computers",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 21,
+    "name": "Heavy-Duty Clock",
+    "description": "High-quality decor item from Home & Kitchen. Perfect for daily use.",
+    "price": 46.03,
+    "category": "Home & Kitchen",
+    "subcategory": "Decor",
+    "brand": "HomeComfort",
+    "rating": 3.8,
+    "stock": 51,
+    "image": "https://picsum.photos/200/200?random=21",
+    "tags": [
+      "home & kitchen",
+      "decor",
+      "sale"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 22,
+    "name": "Sleek Handbag",
+    "description": "High-quality women item from Fashion. Perfect for daily use.",
+    "price": 359.74,
+    "category": "Fashion",
+    "subcategory": "Women",
+    "brand": "TechSound",
+    "rating": 4.2,
+    "stock": 13,
+    "image": "https://picsum.photos/200/200?random=22",
+    "tags": [
+      "fashion",
+      "women",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 23,
+    "name": "Lightweight Lamp",
+    "description": "High-quality furniture item from Home & Kitchen. Perfect for daily use.",
+    "price": 378.2,
+    "category": "Home & Kitchen",
+    "subcategory": "Furniture",
+    "brand": "TechSound",
+    "rating": 3.6,
+    "stock": 47,
+    "image": "https://picsum.photos/200/200?random=23",
+    "tags": [
+      "home & kitchen",
+      "furniture",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 24,
+    "name": "Compact Fitness Tracker",
+    "description": "High-quality wearables item from Fitness. Perfect for daily use.",
+    "price": 33.02,
+    "category": "Fitness",
+    "subcategory": "Wearables",
+    "brand": "FitLife",
+    "rating": 4.6,
+    "stock": 105,
+    "image": "https://picsum.photos/200/200?random=24",
+    "tags": [
+      "fitness",
+      "wearables",
+      "sale"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 25,
+    "name": "Ergonomic Smart Watch",
+    "description": "High-quality wearables item from Fitness. Perfect for daily use.",
+    "price": 275.01,
+    "category": "Fitness",
+    "subcategory": "Wearables",
+    "brand": "Visionary",
+    "rating": 3.6,
+    "stock": 111,
+    "image": "https://picsum.photos/200/200?random=25",
+    "tags": [
+      "fitness",
+      "wearables",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 26,
+    "name": "Lightweight Charger",
+    "description": "High-quality accessories item from Fashion. Perfect for daily use.",
+    "price": 412.64,
+    "category": "Fashion",
+    "subcategory": "Accessories",
+    "brand": "FitLife",
+    "rating": 3.4,
+    "stock": 25,
+    "image": "https://picsum.photos/200/200?random=26",
+    "tags": [
+      "fashion",
+      "accessories",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 27,
+    "name": "Premium Sofa",
+    "description": "High-quality furniture item from Home & Kitchen. Perfect for daily use.",
+    "price": 104.12,
+    "category": "Home & Kitchen",
+    "subcategory": "Furniture",
+    "brand": "Visionary",
+    "rating": 4.9,
+    "stock": 5,
+    "image": "https://picsum.photos/200/200?random=27",
+    "tags": [
+      "home & kitchen",
+      "furniture",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 28,
+    "name": "Lightweight Toaster",
+    "description": "High-quality appliances item from Home & Kitchen. Perfect for daily use.",
+    "price": 164.58,
+    "category": "Home & Kitchen",
+    "subcategory": "Appliances",
+    "brand": "FitLife",
+    "rating": 3.8,
+    "stock": 113,
+    "image": "https://picsum.photos/200/200?random=28",
+    "tags": [
+      "home & kitchen",
+      "appliances",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 29,
+    "name": "Lightweight Rug",
+    "description": "High-quality decor item from Home & Kitchen. Perfect for daily use.",
+    "price": 297.64,
+    "category": "Home & Kitchen",
+    "subcategory": "Decor",
+    "brand": "GamerPro",
+    "rating": 4.5,
+    "stock": 132,
+    "image": "https://picsum.photos/200/200?random=29",
+    "tags": [
+      "home & kitchen",
+      "decor",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 30,
+    "name": "Lightweight Energy Bar",
+    "description": "High-quality supplements item from Fitness. Perfect for daily use.",
+    "price": 195.54,
+    "category": "Fitness",
+    "subcategory": "Supplements",
+    "brand": "FitLife",
+    "rating": 3.6,
+    "stock": 119,
+    "image": "https://picsum.photos/200/200?random=30",
+    "tags": [
+      "fitness",
+      "supplements",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 31,
+    "name": "Premium Bench",
+    "description": "High-quality equipment item from Fitness. Perfect for daily use.",
+    "price": 255.71,
+    "category": "Fitness",
+    "subcategory": "Equipment",
+    "brand": "HomeComfort",
+    "rating": 4.6,
+    "stock": 68,
+    "image": "https://picsum.photos/200/200?random=31",
+    "tags": [
+      "fitness",
+      "equipment",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 32,
+    "name": "Sleek Monitor",
+    "description": "High-quality computers item from Electronics. Perfect for daily use.",
+    "price": 360.66,
+    "category": "Electronics",
+    "subcategory": "Computers",
+    "brand": "Visionary",
+    "rating": 3.7,
+    "stock": 149,
+    "image": "https://picsum.photos/200/200?random=32",
+    "tags": [
+      "electronics",
+      "computers",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 33,
+    "name": "Compact Bench",
+    "description": "High-quality equipment item from Fitness. Perfect for daily use.",
+    "price": 353.77,
+    "category": "Fitness",
+    "subcategory": "Equipment",
+    "brand": "UrbanGear",
+    "rating": 4.9,
+    "stock": 93,
+    "image": "https://picsum.photos/200/200?random=33",
+    "tags": [
+      "fitness",
+      "equipment",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 34,
+    "name": "Lightweight Vitamins",
+    "description": "High-quality supplements item from Fitness. Perfect for daily use.",
+    "price": 432.15,
+    "category": "Fitness",
+    "subcategory": "Supplements",
+    "brand": "UrbanGear",
+    "rating": 4.5,
+    "stock": 132,
+    "image": "https://picsum.photos/200/200?random=34",
+    "tags": [
+      "fitness",
+      "supplements",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 35,
+    "name": "Sleek Action Cam",
+    "description": "High-quality cameras item from Electronics. Perfect for daily use.",
+    "price": 342.86,
+    "category": "Electronics",
+    "subcategory": "Cameras",
+    "brand": "FitLife",
+    "rating": 4.9,
+    "stock": 56,
+    "image": "https://picsum.photos/200/200?random=35",
+    "tags": [
+      "electronics",
+      "cameras",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 36,
+    "name": "Vintage Earbuds",
+    "description": "High-quality audio item from Electronics. Perfect for daily use.",
+    "price": 84.4,
+    "category": "Electronics",
+    "subcategory": "Audio",
+    "brand": "HomeComfort",
+    "rating": 3.4,
+    "stock": 43,
+    "image": "https://picsum.photos/200/200?random=36",
+    "tags": [
+      "electronics",
+      "audio",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 37,
+    "name": "Lightweight Rug",
+    "description": "High-quality decor item from Home & Kitchen. Perfect for daily use.",
+    "price": 309.75,
+    "category": "Home & Kitchen",
+    "subcategory": "Decor",
+    "brand": "TechSound",
+    "rating": 4.5,
+    "stock": 30,
+    "image": "https://picsum.photos/200/200?random=37",
+    "tags": [
+      "home & kitchen",
+      "decor",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 38,
+    "name": "Premium Jeans",
+    "description": "High-quality men item from Fashion. Perfect for daily use.",
+    "price": 171.7,
+    "category": "Fashion",
+    "subcategory": "Men",
+    "brand": "TechSound",
+    "rating": 3.1,
+    "stock": 36,
+    "image": "https://picsum.photos/200/200?random=38",
+    "tags": [
+      "fashion",
+      "men",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 39,
+    "name": "Wireless Jeans",
+    "description": "High-quality men item from Fashion. Perfect for daily use.",
+    "price": 277.28,
+    "category": "Fashion",
+    "subcategory": "Men",
+    "brand": "Visionary",
+    "rating": 3.5,
+    "stock": 59,
+    "image": "https://picsum.photos/200/200?random=39",
+    "tags": [
+      "fashion",
+      "men",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 40,
+    "name": "Smart Laptop",
+    "description": "High-quality computers item from Electronics. Perfect for daily use.",
+    "price": 461.8,
+    "category": "Electronics",
+    "subcategory": "Computers",
+    "brand": "UrbanGear",
+    "rating": 3.2,
+    "stock": 59,
+    "image": "https://picsum.photos/200/200?random=40",
+    "tags": [
+      "electronics",
+      "computers",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 41,
+    "name": "Premium Chair",
+    "description": "High-quality furniture item from Home & Kitchen. Perfect for daily use.",
+    "price": 359.86,
+    "category": "Home & Kitchen",
+    "subcategory": "Furniture",
+    "brand": "TechSound",
+    "rating": 3.9,
+    "stock": 65,
+    "image": "https://picsum.photos/200/200?random=41",
+    "tags": [
+      "home & kitchen",
+      "furniture",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 42,
+    "name": "Sleek Fitness Tracker",
+    "description": "High-quality wearables item from Fitness. Perfect for daily use.",
+    "price": 111.31,
+    "category": "Fitness",
+    "subcategory": "Wearables",
+    "brand": "FitLife",
+    "rating": 3.5,
+    "stock": 137,
+    "image": "https://picsum.photos/200/200?random=42",
+    "tags": [
+      "fitness",
+      "wearables",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 43,
+    "name": "Sleek Vase",
+    "description": "High-quality decor item from Home & Kitchen. Perfect for daily use.",
+    "price": 483.88,
+    "category": "Home & Kitchen",
+    "subcategory": "Decor",
+    "brand": "TechSound",
+    "rating": 3.1,
+    "stock": 140,
+    "image": "https://picsum.photos/200/200?random=43",
+    "tags": [
+      "home & kitchen",
+      "decor",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 44,
+    "name": "Lightweight DSLR Camera",
+    "description": "High-quality cameras item from Electronics. Perfect for daily use.",
+    "price": 46.58,
+    "category": "Electronics",
+    "subcategory": "Cameras",
+    "brand": "GamerPro",
+    "rating": 3.1,
+    "stock": 141,
+    "image": "https://picsum.photos/200/200?random=44",
+    "tags": [
+      "electronics",
+      "cameras",
+      "sale"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 45,
+    "name": "Smart Sofa",
+    "description": "High-quality furniture item from Home & Kitchen. Perfect for daily use.",
+    "price": 151.29,
+    "category": "Home & Kitchen",
+    "subcategory": "Furniture",
+    "brand": "SpeedMaster",
+    "rating": 3.3,
+    "stock": 87,
+    "image": "https://picsum.photos/200/200?random=45",
+    "tags": [
+      "home & kitchen",
+      "furniture",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 46,
+    "name": "Heavy-Duty Heels",
+    "description": "High-quality women item from Fashion. Perfect for daily use.",
+    "price": 173.82,
+    "category": "Fashion",
+    "subcategory": "Women",
+    "brand": "SpeedMaster",
+    "rating": 4.5,
+    "stock": 91,
+    "image": "https://picsum.photos/200/200?random=46",
+    "tags": [
+      "fashion",
+      "women",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 47,
+    "name": "Smart Case",
+    "description": "High-quality accessories item from Fashion. Perfect for daily use.",
+    "price": 64.62,
+    "category": "Fashion",
+    "subcategory": "Accessories",
+    "brand": "GamerPro",
+    "rating": 4.1,
+    "stock": 37,
+    "image": "https://picsum.photos/200/200?random=47",
+    "tags": [
+      "fashion",
+      "accessories",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 48,
+    "name": "Vintage Treadmill",
+    "description": "High-quality equipment item from Fitness. Perfect for daily use.",
+    "price": 159.58,
+    "category": "Fitness",
+    "subcategory": "Equipment",
+    "brand": "GamerPro",
+    "rating": 4.1,
+    "stock": 97,
+    "image": "https://picsum.photos/200/200?random=48",
+    "tags": [
+      "fitness",
+      "equipment",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 49,
+    "name": "Lightweight Fitness Tracker",
+    "description": "High-quality wearables item from Fitness. Perfect for daily use.",
+    "price": 160.9,
+    "category": "Fitness",
+    "subcategory": "Wearables",
+    "brand": "GamerPro",
+    "rating": 4.4,
+    "stock": 87,
+    "image": "https://picsum.photos/200/200?random=49",
+    "tags": [
+      "fitness",
+      "wearables",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 50,
+    "name": "Ergonomic Speakers",
+    "description": "High-quality audio item from Electronics. Perfect for daily use.",
+    "price": 163.79,
+    "category": "Electronics",
+    "subcategory": "Audio",
+    "brand": "StyleCo",
+    "rating": 4.5,
+    "stock": 95,
+    "image": "https://picsum.photos/200/200?random=50",
+    "tags": [
+      "electronics",
+      "audio",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 51,
+    "name": "Lightweight Jacket",
+    "description": "High-quality men item from Fashion. Perfect for daily use.",
+    "price": 140.26,
+    "category": "Fashion",
+    "subcategory": "Men",
+    "brand": "UrbanGear",
+    "rating": 4.2,
+    "stock": 124,
+    "image": "https://picsum.photos/200/200?random=51",
+    "tags": [
+      "fashion",
+      "men",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 52,
+    "name": "Premium Mouse",
+    "description": "High-quality computers item from Electronics. Perfect for daily use.",
+    "price": 198.68,
+    "category": "Electronics",
+    "subcategory": "Computers",
+    "brand": "UrbanGear",
+    "rating": 4.1,
+    "stock": 64,
+    "image": "https://picsum.photos/200/200?random=52",
+    "tags": [
+      "electronics",
+      "computers",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 53,
+    "name": "Sleek Lamp",
+    "description": "High-quality furniture item from Home & Kitchen. Perfect for daily use.",
+    "price": 167.56,
+    "category": "Home & Kitchen",
+    "subcategory": "Furniture",
+    "brand": "Visionary",
+    "rating": 3.2,
+    "stock": 20,
+    "image": "https://picsum.photos/200/200?random=53",
+    "tags": [
+      "home & kitchen",
+      "furniture",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 54,
+    "name": "Compact Dress",
+    "description": "High-quality women item from Fashion. Perfect for daily use.",
+    "price": 429.52,
+    "category": "Fashion",
+    "subcategory": "Women",
+    "brand": "SpeedMaster",
+    "rating": 4.2,
+    "stock": 127,
+    "image": "https://picsum.photos/200/200?random=54",
+    "tags": [
+      "fashion",
+      "women",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 55,
+    "name": "Compact Dress",
+    "description": "High-quality women item from Fashion. Perfect for daily use.",
+    "price": 338.4,
+    "category": "Fashion",
+    "subcategory": "Women",
+    "brand": "HomeComfort",
+    "rating": 4.6,
+    "stock": 0,
+    "image": "https://picsum.photos/200/200?random=55",
+    "tags": [
+      "fashion",
+      "women",
+      "premium"
+    ],
+    "inStock": false
+  },
+  {
+    "id": 56,
+    "name": "Smart Sneakers",
+    "description": "High-quality men item from Fashion. Perfect for daily use.",
+    "price": 103.16,
+    "category": "Fashion",
+    "subcategory": "Men",
+    "brand": "UrbanGear",
+    "rating": 4.8,
+    "stock": 139,
+    "image": "https://picsum.photos/200/200?random=56",
+    "tags": [
+      "fashion",
+      "men",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 57,
+    "name": "Smart Scarf",
+    "description": "High-quality women item from Fashion. Perfect for daily use.",
+    "price": 26.67,
+    "category": "Fashion",
+    "subcategory": "Women",
+    "brand": "SpeedMaster",
+    "rating": 3.7,
+    "stock": 9,
+    "image": "https://picsum.photos/200/200?random=57",
+    "tags": [
+      "fashion",
+      "women",
+      "sale"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 58,
+    "name": "Wireless T-Shirt",
+    "description": "High-quality men item from Fashion. Perfect for daily use.",
+    "price": 291.48,
+    "category": "Fashion",
+    "subcategory": "Men",
+    "brand": "FitLife",
+    "rating": 4.4,
+    "stock": 117,
+    "image": "https://picsum.photos/200/200?random=58",
+    "tags": [
+      "fashion",
+      "men",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 59,
+    "name": "Sleek Smart Watch",
+    "description": "High-quality wearables item from Fitness. Perfect for daily use.",
+    "price": 353.56,
+    "category": "Fitness",
+    "subcategory": "Wearables",
+    "brand": "GamerPro",
+    "rating": 3.8,
+    "stock": 37,
+    "image": "https://picsum.photos/200/200?random=59",
+    "tags": [
+      "fitness",
+      "wearables",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 60,
+    "name": "Wireless Rug",
+    "description": "High-quality decor item from Home & Kitchen. Perfect for daily use.",
+    "price": 474.33,
+    "category": "Home & Kitchen",
+    "subcategory": "Decor",
+    "brand": "SpeedMaster",
+    "rating": 4.8,
+    "stock": 25,
+    "image": "https://picsum.photos/200/200?random=60",
+    "tags": [
+      "home & kitchen",
+      "decor",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 61,
+    "name": "Heavy-Duty Protein Powder",
+    "description": "High-quality supplements item from Fitness. Perfect for daily use.",
+    "price": 373.27,
+    "category": "Fitness",
+    "subcategory": "Supplements",
+    "brand": "GamerPro",
+    "rating": 3.9,
+    "stock": 115,
+    "image": "https://picsum.photos/200/200?random=61",
+    "tags": [
+      "fitness",
+      "supplements",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 62,
+    "name": "Wireless Protein Powder",
+    "description": "High-quality supplements item from Fitness. Perfect for daily use.",
+    "price": 137.69,
+    "category": "Fitness",
+    "subcategory": "Supplements",
+    "brand": "Visionary",
+    "rating": 4,
+    "stock": 51,
+    "image": "https://picsum.photos/200/200?random=62",
+    "tags": [
+      "fitness",
+      "supplements",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 63,
+    "name": "Premium Hub",
+    "description": "High-quality accessories item from Electronics. Perfect for daily use.",
+    "price": 167.82,
+    "category": "Electronics",
+    "subcategory": "Accessories",
+    "brand": "FitLife",
+    "rating": 3.8,
+    "stock": 72,
+    "image": "https://picsum.photos/200/200?random=63",
+    "tags": [
+      "electronics",
+      "accessories",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 64,
+    "name": "Vintage Toaster",
+    "description": "High-quality appliances item from Home & Kitchen. Perfect for daily use.",
+    "price": 343.18,
+    "category": "Home & Kitchen",
+    "subcategory": "Appliances",
+    "brand": "Visionary",
+    "rating": 3.8,
+    "stock": 105,
+    "image": "https://picsum.photos/200/200?random=64",
+    "tags": [
+      "home & kitchen",
+      "appliances",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 65,
+    "name": "Vintage Lens",
+    "description": "High-quality cameras item from Electronics. Perfect for daily use.",
+    "price": 415.68,
+    "category": "Electronics",
+    "subcategory": "Cameras",
+    "brand": "StyleCo",
+    "rating": 3.5,
+    "stock": 20,
+    "image": "https://picsum.photos/200/200?random=65",
+    "tags": [
+      "electronics",
+      "cameras",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 66,
+    "name": "Lightweight Rug",
+    "description": "High-quality decor item from Home & Kitchen. Perfect for daily use.",
+    "price": 476.37,
+    "category": "Home & Kitchen",
+    "subcategory": "Decor",
+    "brand": "HomeComfort",
+    "rating": 3.9,
+    "stock": 70,
+    "image": "https://picsum.photos/200/200?random=66",
+    "tags": [
+      "home & kitchen",
+      "decor",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 67,
+    "name": "Lightweight Clock",
+    "description": "High-quality decor item from Home & Kitchen. Perfect for daily use.",
+    "price": 18.3,
+    "category": "Home & Kitchen",
+    "subcategory": "Decor",
+    "brand": "TechSound",
+    "rating": 4.7,
+    "stock": 12,
+    "image": "https://picsum.photos/200/200?random=67",
+    "tags": [
+      "home & kitchen",
+      "decor",
+      "sale"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 68,
+    "name": "Sleek Charger",
+    "description": "High-quality accessories item from Electronics. Perfect for daily use.",
+    "price": 376.61,
+    "category": "Electronics",
+    "subcategory": "Accessories",
+    "brand": "GamerPro",
+    "rating": 3.3,
+    "stock": 54,
+    "image": "https://picsum.photos/200/200?random=68",
+    "tags": [
+      "electronics",
+      "accessories",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 69,
+    "name": "Premium Vitamins",
+    "description": "High-quality supplements item from Fitness. Perfect for daily use.",
+    "price": 481.44,
+    "category": "Fitness",
+    "subcategory": "Supplements",
+    "brand": "FitLife",
+    "rating": 3.3,
+    "stock": 85,
+    "image": "https://picsum.photos/200/200?random=69",
+    "tags": [
+      "fitness",
+      "supplements",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 70,
+    "name": "Vintage Toaster",
+    "description": "High-quality appliances item from Home & Kitchen. Perfect for daily use.",
+    "price": 295.38,
+    "category": "Home & Kitchen",
+    "subcategory": "Appliances",
+    "brand": "Visionary",
+    "rating": 4.9,
+    "stock": 31,
+    "image": "https://picsum.photos/200/200?random=70",
+    "tags": [
+      "home & kitchen",
+      "appliances",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 71,
+    "name": "Wireless Hub",
+    "description": "High-quality accessories item from Electronics. Perfect for daily use.",
+    "price": 480.96,
+    "category": "Electronics",
+    "subcategory": "Accessories",
+    "brand": "GamerPro",
+    "rating": 4.8,
+    "stock": 30,
+    "image": "https://picsum.photos/200/200?random=71",
+    "tags": [
+      "electronics",
+      "accessories",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 72,
+    "name": "Wireless Coffee Maker",
+    "description": "High-quality appliances item from Home & Kitchen. Perfect for daily use.",
+    "price": 138.77,
+    "category": "Home & Kitchen",
+    "subcategory": "Appliances",
+    "brand": "SpeedMaster",
+    "rating": 3.6,
+    "stock": 69,
+    "image": "https://picsum.photos/200/200?random=72",
+    "tags": [
+      "home & kitchen",
+      "appliances",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 73,
+    "name": "Wireless Backpack",
+    "description": "High-quality accessories item from Electronics. Perfect for daily use.",
+    "price": 107.23,
+    "category": "Electronics",
+    "subcategory": "Accessories",
+    "brand": "Visionary",
+    "rating": 4.8,
+    "stock": 28,
+    "image": "https://picsum.photos/200/200?random=73",
+    "tags": [
+      "electronics",
+      "accessories",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 74,
+    "name": "Smart Monitor",
+    "description": "High-quality computers item from Electronics. Perfect for daily use.",
+    "price": 168.01,
+    "category": "Electronics",
+    "subcategory": "Computers",
+    "brand": "Visionary",
+    "rating": 3.2,
+    "stock": 117,
+    "image": "https://picsum.photos/200/200?random=74",
+    "tags": [
+      "electronics",
+      "computers",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 75,
+    "name": "Sleek Wall Art",
+    "description": "High-quality decor item from Home & Kitchen. Perfect for daily use.",
+    "price": 112.49,
+    "category": "Home & Kitchen",
+    "subcategory": "Decor",
+    "brand": "SpeedMaster",
+    "rating": 4.2,
+    "stock": 150,
+    "image": "https://picsum.photos/200/200?random=75",
+    "tags": [
+      "home & kitchen",
+      "decor",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 76,
+    "name": "Wireless Hub",
+    "description": "High-quality accessories item from Fashion. Perfect for daily use.",
+    "price": 439.16,
+    "category": "Fashion",
+    "subcategory": "Accessories",
+    "brand": "StyleCo",
+    "rating": 4.8,
+    "stock": 106,
+    "image": "https://picsum.photos/200/200?random=76",
+    "tags": [
+      "fashion",
+      "accessories",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 77,
+    "name": "Lightweight Charger",
+    "description": "High-quality accessories item from Fashion. Perfect for daily use.",
+    "price": 57.58,
+    "category": "Fashion",
+    "subcategory": "Accessories",
+    "brand": "Visionary",
+    "rating": 3.2,
+    "stock": 109,
+    "image": "https://picsum.photos/200/200?random=77",
+    "tags": [
+      "fashion",
+      "accessories",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 78,
+    "name": "Compact Keyboard",
+    "description": "High-quality computers item from Electronics. Perfect for daily use.",
+    "price": 279.66,
+    "category": "Electronics",
+    "subcategory": "Computers",
+    "brand": "Visionary",
+    "rating": 4.2,
+    "stock": 8,
+    "image": "https://picsum.photos/200/200?random=78",
+    "tags": [
+      "electronics",
+      "computers",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 79,
+    "name": "Compact Smart Watch",
+    "description": "High-quality wearables item from Fitness. Perfect for daily use.",
+    "price": 70.4,
+    "category": "Fitness",
+    "subcategory": "Wearables",
+    "brand": "HomeComfort",
+    "rating": 4.4,
+    "stock": 148,
+    "image": "https://picsum.photos/200/200?random=79",
+    "tags": [
+      "fitness",
+      "wearables",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 80,
+    "name": "Vintage Backpack",
+    "description": "High-quality accessories item from Fashion. Perfect for daily use.",
+    "price": 243.76,
+    "category": "Fashion",
+    "subcategory": "Accessories",
+    "brand": "TechSound",
+    "rating": 4.3,
+    "stock": 4,
+    "image": "https://picsum.photos/200/200?random=80",
+    "tags": [
+      "fashion",
+      "accessories",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 81,
+    "name": "Compact Chair",
+    "description": "High-quality furniture item from Home & Kitchen. Perfect for daily use.",
+    "price": 170.11,
+    "category": "Home & Kitchen",
+    "subcategory": "Furniture",
+    "brand": "Visionary",
+    "rating": 3.6,
+    "stock": 101,
+    "image": "https://picsum.photos/200/200?random=81",
+    "tags": [
+      "home & kitchen",
+      "furniture",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 82,
+    "name": "Compact Smart Watch",
+    "description": "High-quality wearables item from Fitness. Perfect for daily use.",
+    "price": 317.37,
+    "category": "Fitness",
+    "subcategory": "Wearables",
+    "brand": "UrbanGear",
+    "rating": 3.4,
+    "stock": 118,
+    "image": "https://picsum.photos/200/200?random=82",
+    "tags": [
+      "fitness",
+      "wearables",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 83,
+    "name": "Lightweight T-Shirt",
+    "description": "High-quality men item from Fashion. Perfect for daily use.",
+    "price": 331.3,
+    "category": "Fashion",
+    "subcategory": "Men",
+    "brand": "SpeedMaster",
+    "rating": 4.1,
+    "stock": 49,
+    "image": "https://picsum.photos/200/200?random=83",
+    "tags": [
+      "fashion",
+      "men",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 84,
+    "name": "Vintage Bench",
+    "description": "High-quality equipment item from Fitness. Perfect for daily use.",
+    "price": 226.03,
+    "category": "Fitness",
+    "subcategory": "Equipment",
+    "brand": "TechSound",
+    "rating": 4.4,
+    "stock": 45,
+    "image": "https://picsum.photos/200/200?random=84",
+    "tags": [
+      "fitness",
+      "equipment",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 85,
+    "name": "Wireless Smart Watch",
+    "description": "High-quality wearables item from Fitness. Perfect for daily use.",
+    "price": 486.39,
+    "category": "Fitness",
+    "subcategory": "Wearables",
+    "brand": "FitLife",
+    "rating": 4.7,
+    "stock": 49,
+    "image": "https://picsum.photos/200/200?random=85",
+    "tags": [
+      "fitness",
+      "wearables",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 86,
+    "name": "Compact Vitamins",
+    "description": "High-quality supplements item from Fitness. Perfect for daily use.",
+    "price": 452.73,
+    "category": "Fitness",
+    "subcategory": "Supplements",
+    "brand": "HomeComfort",
+    "rating": 4.3,
+    "stock": 120,
+    "image": "https://picsum.photos/200/200?random=86",
+    "tags": [
+      "fitness",
+      "supplements",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 87,
+    "name": "Smart Blender",
+    "description": "High-quality appliances item from Home & Kitchen. Perfect for daily use.",
+    "price": 323.8,
+    "category": "Home & Kitchen",
+    "subcategory": "Appliances",
+    "brand": "GamerPro",
+    "rating": 3.7,
+    "stock": 114,
+    "image": "https://picsum.photos/200/200?random=87",
+    "tags": [
+      "home & kitchen",
+      "appliances",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 88,
+    "name": "Lightweight Handbag",
+    "description": "High-quality women item from Fashion. Perfect for daily use.",
+    "price": 164.98,
+    "category": "Fashion",
+    "subcategory": "Women",
+    "brand": "UrbanGear",
+    "rating": 4.3,
+    "stock": 109,
+    "image": "https://picsum.photos/200/200?random=88",
+    "tags": [
+      "fashion",
+      "women",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 89,
+    "name": "Vintage Vitamins",
+    "description": "High-quality supplements item from Fitness. Perfect for daily use.",
+    "price": 474.1,
+    "category": "Fitness",
+    "subcategory": "Supplements",
+    "brand": "SpeedMaster",
+    "rating": 4,
+    "stock": 83,
+    "image": "https://picsum.photos/200/200?random=89",
+    "tags": [
+      "fitness",
+      "supplements",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 90,
+    "name": "Sleek Dumbbells",
+    "description": "High-quality equipment item from Fitness. Perfect for daily use.",
+    "price": 422.71,
+    "category": "Fitness",
+    "subcategory": "Equipment",
+    "brand": "StyleCo",
+    "rating": 3.2,
+    "stock": 122,
+    "image": "https://picsum.photos/200/200?random=90",
+    "tags": [
+      "fitness",
+      "equipment",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 91,
+    "name": "Vintage Vase",
+    "description": "High-quality decor item from Home & Kitchen. Perfect for daily use.",
+    "price": 339.65,
+    "category": "Home & Kitchen",
+    "subcategory": "Decor",
+    "brand": "UrbanGear",
+    "rating": 4.1,
+    "stock": 60,
+    "image": "https://picsum.photos/200/200?random=91",
+    "tags": [
+      "home & kitchen",
+      "decor",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 92,
+    "name": "Lightweight Action Cam",
+    "description": "High-quality cameras item from Electronics. Perfect for daily use.",
+    "price": 102.21,
+    "category": "Electronics",
+    "subcategory": "Cameras",
+    "brand": "TechSound",
+    "rating": 4.4,
+    "stock": 56,
+    "image": "https://picsum.photos/200/200?random=92",
+    "tags": [
+      "electronics",
+      "cameras",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 93,
+    "name": "Wireless Mouse",
+    "description": "High-quality computers item from Electronics. Perfect for daily use.",
+    "price": 327.94,
+    "category": "Electronics",
+    "subcategory": "Computers",
+    "brand": "UrbanGear",
+    "rating": 3.7,
+    "stock": 105,
+    "image": "https://picsum.photos/200/200?random=93",
+    "tags": [
+      "electronics",
+      "computers",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 94,
+    "name": "Smart Heels",
+    "description": "High-quality women item from Fashion. Perfect for daily use.",
+    "price": 54.39,
+    "category": "Fashion",
+    "subcategory": "Women",
+    "brand": "GamerPro",
+    "rating": 4.5,
+    "stock": 136,
+    "image": "https://picsum.photos/200/200?random=94",
+    "tags": [
+      "fashion",
+      "women",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 95,
+    "name": "Premium Charger",
+    "description": "High-quality accessories item from Electronics. Perfect for daily use.",
+    "price": 198.23,
+    "category": "Electronics",
+    "subcategory": "Accessories",
+    "brand": "SpeedMaster",
+    "rating": 4.8,
+    "stock": 72,
+    "image": "https://picsum.photos/200/200?random=95",
+    "tags": [
+      "electronics",
+      "accessories",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 96,
+    "name": "Vintage Sneakers",
+    "description": "High-quality men item from Fashion. Perfect for daily use.",
+    "price": 164.59,
+    "category": "Fashion",
+    "subcategory": "Men",
+    "brand": "SpeedMaster",
+    "rating": 4.1,
+    "stock": 123,
+    "image": "https://picsum.photos/200/200?random=96",
+    "tags": [
+      "fashion",
+      "men",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 97,
+    "name": "Compact Smart Watch",
+    "description": "High-quality wearables item from Fitness. Perfect for daily use.",
+    "price": 304.61,
+    "category": "Fitness",
+    "subcategory": "Wearables",
+    "brand": "HomeComfort",
+    "rating": 3.2,
+    "stock": 83,
+    "image": "https://picsum.photos/200/200?random=97",
+    "tags": [
+      "fitness",
+      "wearables",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 98,
+    "name": "Heavy-Duty Yoga Mat",
+    "description": "High-quality equipment item from Fitness. Perfect for daily use.",
+    "price": 310.68,
+    "category": "Fitness",
+    "subcategory": "Equipment",
+    "brand": "StyleCo",
+    "rating": 3.5,
+    "stock": 39,
+    "image": "https://picsum.photos/200/200?random=98",
+    "tags": [
+      "fitness",
+      "equipment",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 99,
+    "name": "Lightweight Bench",
+    "description": "High-quality equipment item from Fitness. Perfect for daily use.",
+    "price": 35.27,
+    "category": "Fitness",
+    "subcategory": "Equipment",
+    "brand": "GamerPro",
+    "rating": 4.9,
+    "stock": 71,
+    "image": "https://picsum.photos/200/200?random=99",
+    "tags": [
+      "fitness",
+      "equipment",
+      "sale"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 100,
+    "name": "Vintage Rug",
+    "description": "High-quality decor item from Home & Kitchen. Perfect for daily use.",
+    "price": 444.19,
+    "category": "Home & Kitchen",
+    "subcategory": "Decor",
+    "brand": "UrbanGear",
+    "rating": 3.9,
+    "stock": 85,
+    "image": "https://picsum.photos/200/200?random=100",
+    "tags": [
+      "home & kitchen",
+      "decor",
+      "premium"
+    ],
+    "inStock": true
+  }
+]
